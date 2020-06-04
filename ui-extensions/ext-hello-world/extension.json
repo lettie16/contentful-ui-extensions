@@ -1,0 +1,6 @@
+{
+    "id": "extension",
+    "name": "My first extension",
+    "srcdoc": "./index.html",
+    "fieldTypes": ["Text"]
+  }
